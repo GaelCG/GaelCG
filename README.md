@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hey, I'm Gael 👋
 
-<!--
-**GaelCG/GaelCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend / Cloud / Distributed Systems Engineer
 
-Here are some ideas to get you started:
+I build scalable backend systems, REST APIs and cloud-native applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- Backend engineering with Node.js & TypeScript
+- Distributed systems & microservices
+- PostgreSQL & database architecture
+- Docker & Kubernetes
+- Cloud infrastructure
+- CI/CD & DevOps
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+JavaScript · TypeScript · Python · C++ · F#
+
+### Backend
+
+Node.js · Express · .NET · REST · GraphQL
+
+### Databases
+
+PostgreSQL · SQL · Sequelize
+
+### Cloud & DevOps
+
+Docker · Kubernetes · AWS · Google Cloud · GitHub Actions
+
+### Frontend
+
+React · TypeScript
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Camper Bot Profile API
+
+Production-oriented REST API built with Node.js and Express.
+
+`Node.js` `Express` `REST API` `Jest` `Supertest` `Docker`
+
+[View project →](...)
+
+---
+
+### 🔹 Project Name
+
+Short description of what the project actually solves.
+
+`TypeScript` `PostgreSQL` `Docker` `Kubernetes`
+
+[View project →](...)
+
+---
+
+### 🔹 Project Name
+
+Short description focused on architecture, scalability or engineering.
+
+`Python` `Machine Learning` `PostgreSQL`
+
+[View project →](...)
+
+---
+
+## 💼 Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- Cloud Computing
+- Microservices
+- Databases
+- DevOps
+- Machine Learning
+
+---
+
+## 📫 Connect
+
+[LinkedIn](...)
+[Portfolio](...)
+[Email](...)
